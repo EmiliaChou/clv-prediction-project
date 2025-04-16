@@ -1,9 +1,9 @@
-# 🛍 Customer Lifetime Value (CLV) Prediction – Python & Colab
+# Customer Lifetime Value (CLV) Prediction – Python & Colab
 
-## 📌 Overview
+## Overview
 This project builds a machine learning model to predict high-CLV e-commerce customers using transactional and behavioral features. The goal is to help marketers improve targeting and retention.
 
-## 🧠 What It Covers
+## What It Covers
 - Upload + clean CSV data
 - Feature engineering: Recency, Tenure, Frequency, EngagementScore
 - Visualization: Spend, CLV segments
@@ -11,15 +11,15 @@ This project builds a machine learning model to predict high-CLV e-commerce cust
 - Feature importance
 - Exported data for future use
 
-## 📂 Files
+## Files
 - `CLV_Prediction_Project_Colab.ipynb` – Google Colab notebook
 - `ecommerce_customers_clv_cleaned.csv` – synthetic dataset
 - `CLV_Project_Scope_of_Work.docx` – scope of work
 - `README.md`
 
-## 🛠 Tools Used
+## Tools Used
 Python · Pandas · Scikit-learn · Seaborn · Google Colab · Excel
 
-## 👩‍💻 Author
+## Author
 Hui-Wen (Emilia) Chou  
 [LinkedIn](https://www.linkedin.com/in/emilia-chou-b2a042304)
